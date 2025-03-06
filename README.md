@@ -1,9 +1,4 @@
 # REAL-TIME-CHAT-APPLICATION
-Here’s your project information formatted as per your previous request:
-
----
-
-### *MERN Stack Web Development Project*
 
 ##  *Name*: CHINTHAPARTHI CHETHAN  
 ## *Company*: CODTECH IT SOLUTIONS PVT. LTD  
